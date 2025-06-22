@@ -71,6 +71,7 @@ Ou via IntelliJ avec les configurations Run
 ✔️ Console :
 
 ➡️ Nombre d'incidents par service:
+
 +-----------+------------+
 | service   | nb_incidents |
 +-----------+------------+
@@ -80,6 +81,7 @@ Ou via IntelliJ avec les configurations Run
 +-----------+------------+
 
 ➡️ Les deux années avec le plus d'incidents:
+
 +------+------+
 | annee| total|
 +------+------+
